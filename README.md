@@ -1,4 +1,4 @@
-# Chatbot
+# MissP chatbot
 
 This is a simple demo of a chatbot 'Miss P' in angular using Firebase. It was created as  a learning exercise of Firebase tutorial.
 
